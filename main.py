@@ -4,7 +4,7 @@ import json
 import os
 import time
 
-TOKEN = "your token"
+TOKEN = "TOKEN"
 XP_FILE = "xp_data.json"
 
 # 레벨업 알림 보낼 채널 ID
@@ -117,4 +117,4 @@ async def rank(interaction: discord.Interaction):
     )
 
 
-client.run('your token')
+client.run(TOKEN)
