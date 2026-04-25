@@ -4,10 +4,10 @@ import json
 import os
 import time
 
-print("TOKEN:", TOKEN)
-
 TOKEN = "TOKEN"
 XP_FILE = "xp_data.json"
+
+print("TOKEN:", TOKEN)
 
 # 레벨업 알림 보낼 채널 ID
 LEVELUP_CHANNEL_ID = 1497637754790478027
