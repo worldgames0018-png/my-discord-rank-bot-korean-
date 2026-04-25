@@ -7,6 +7,8 @@ import time
 TOKEN = "TOKEN"
 XP_FILE = "xp_data.json"
 
+print(repr(TOKEN))
+
 print("TOKEN:", TOKEN)
 
 # 레벨업 알림 보낼 채널 ID
