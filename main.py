@@ -117,4 +117,4 @@ async def rank(interaction: discord.Interaction):
     )
 
 
-client.run("TOKEN")
+client.run(TOKEN)
