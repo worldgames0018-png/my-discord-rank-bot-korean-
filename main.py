@@ -4,6 +4,8 @@ import json
 import os
 import time
 
+print("TOKEN:", TOKEN)
+
 TOKEN = "TOKEN"
 XP_FILE = "xp_data.json"
 
