@@ -42,7 +42,7 @@ def save_xp():
 
 
 def get_level(xp):
-    return int(xp ** 0.5 // 5)
+    return int(xp ** 0.5 // 7)
 
 
 @client.event
